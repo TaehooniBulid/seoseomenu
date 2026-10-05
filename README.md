@@ -4,7 +4,7 @@
 
 ## 📱 앱 다운로드
 
-### 👉 [서서분식 앱 다운로드](https://github.com/TaehooniBuild/seoseomenu/raw/refs/heads/main/SeoseoMenu.apk)
+### 👉 [서서분식 앱 다운로드](https://github.com/TaehooniBuild/seoseomenu/raw/main/SeoseoMenu.apk)
 
 위의 **서서분식 앱 다운로드**를 누르면 APK 파일을 다운로드할 수 있습니다.
 
